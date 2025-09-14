@@ -1,0 +1,11 @@
+# Streamlit UI Requirements
+streamlit>=1.28.0
+plotly>=5.15.0
+pandas>=1.5.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Existing pipeline requirements
+mlx-vlm
+requests
