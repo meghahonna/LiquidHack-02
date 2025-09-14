@@ -1,0 +1,20 @@
+================================================================================
+INDUSTRIAL PROCESS MONITORING - ANOMALY ANALYSIS REPORT
+================================================================================
+Generated at: 2025-09-13 22:58:39
+Source plot: images/culprit_signals_analysis.png
+================================================================================
+
+**Step 1: Identify anomalies**
+
+* **Temperature anomalies**: The temperature readings in the Heat Exchange 0.1 S001 sensor show a sudden spike from 425.0°C to 425.5°C, which is significantly higher than the normal range of 425.0°C to 425.5°C.
+* **Pressure anomalies**: The pressure readings in the PumpStation 0.1 S002 sensor show a sudden drop from 3.5 bar to 2.9 bar, which is significantly lower than the normal range of 3.5 bar to 3.5 bar.
+* **Energy recall anomalies**: The energy recall readings in the Energy Recall 0.1 S001 sensor show a sudden drop from 270 kWh to 240 kWh, which is significantly lower than the normal range of 270 kWh to 270 kWh.
+
+**Step 2: Analyze patterns**
+
+* **Temperature anomalies**: The sudden spike in temperature readings in the Heat Exchange 0.1 S001 sensor may indicate a process deviation or abnormal event, such as a malfunction or a change in operating conditions.
+* **Pressure anomalies**: The sudden drop in pressure readings in the PumpStation
+
+================================================================================
+End of Report
