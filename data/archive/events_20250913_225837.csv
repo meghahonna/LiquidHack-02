@@ -1,0 +1,21 @@
+Time,Event Type,Value,Units,Event Description,Status,Reason,Sensor Id,Number,Source
+2025-09-13 08:00:00,Energy Reclaim,273.92,kWh,Energy transferred to process stream,Completed,Scheduled daily cycle,S005,100,MonitorSystem01
+2025-09-13 08:05:00,CO₂ Reduction,48.46,kg,Greenhouse gas reduction logged,Logged,Automated monitoring,S001,101,HeatExchanger01
+2025-09-13 08:10:00,Temperature,429.42,°C,Waste heat capture at furnace outlet,Active,Furnace in operation,S004,102,RecoveryUnit02
+2025-09-13 08:15:00,Efficiency,81.37,%,Heat recovery efficiency drop,Alert,Heat exchanger fouling,S005,103,MonitorSystem01
+2025-09-13 08:20:00,Efficiency,77.6,%,Heat recovery efficiency drop,Alert,Heat exchanger fouling,S005,104,MonitorSystem01
+2025-09-13 08:25:00,CO₂ Reduction,45.26,kg,Greenhouse gas reduction logged,Logged,Automated monitoring,S003,105,ControlUnit01
+2025-09-13 08:30:00,Energy Reclaim,253.15,kWh,Energy transferred to process stream,Completed,Scheduled daily cycle,S003,106,ControlUnit01
+2025-09-13 08:35:00,Pressure,3.42,bar,Pressure buildup in recovery system,Warning,Increased throughput demand,S003,107,ControlUnit01
+2025-09-13 08:40:00,Temperature,418.88,°C,Waste heat capture at furnace outlet,Active,Furnace in operation,S005,108,MonitorSystem01
+2025-09-13 08:45:00,Temperature,431.41,°C,Waste heat capture at furnace outlet,Active,Furnace in operation,S005,109,MonitorSystem01
+2025-09-13 08:50:00,CO₂ Reduction,39.82,kg,Greenhouse gas reduction logged,Logged,Automated monitoring,S003,110,ControlUnit01
+2025-09-13 08:55:00,Temperature,418.92,°C,Waste heat capture at furnace outlet,Active,Furnace in operation,S003,111,ControlUnit01
+2025-09-13 09:00:00,CO₂ Reduction,55.81,kg,Greenhouse gas reduction logged,Logged,Automated monitoring,S003,112,ControlUnit01
+2025-09-13 09:05:00,CO₂ Reduction,50.33,kg,Greenhouse gas reduction logged,Logged,Automated monitoring,S002,113,PumpStation01
+2025-09-13 09:10:00,Temperature,418.34,°C,Waste heat capture at furnace outlet,Active,Furnace in operation,S003,114,ControlUnit01
+2025-09-13 09:15:00,Efficiency,90.52,%,Heat recovery efficiency drop,Alert,Heat exchanger fouling,S002,115,PumpStation01
+2025-09-13 09:20:00,Temperature,443.64,°C,Waste heat capture at furnace outlet,Active,Furnace in operation,S001,116,HeatExchanger01
+2025-09-13 09:25:00,Efficiency,78.37,%,Heat recovery efficiency drop,Alert,Heat exchanger fouling,S004,117,RecoveryUnit02
+2025-09-13 09:30:00,Energy Reclaim,262.18,kWh,Energy transferred to process stream,Completed,Scheduled daily cycle,S002,118,PumpStation01
+2025-09-13 09:35:00,Temperature,423.68,°C,Waste heat capture at furnace outlet,Active,Furnace in operation,S002,119,PumpStation01
